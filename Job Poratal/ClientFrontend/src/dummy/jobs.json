@@ -1,0 +1,103 @@
+[
+    {
+      "providerid": "P001",
+      "jobtitle": "Software Engineer",
+      "jobdescription": "Develop and maintain web applications using JavaScript and React.",
+      "location": "New York, NY",
+      "companyname": "Tech Solutions Inc.",
+      "categoryid": "IT",
+      "experiencerequired": "3-5 years",
+      "salary": "$90,000 - $120,000"
+    },
+    {
+      "providerid": "P002",
+      "jobtitle": "Data Analyst",
+      "jobdescription": "Analyze large datasets to extract meaningful insights and support business decisions.",
+      "location": "San Francisco, CA",
+      "companyname": "Data Insights Co.",
+      "categoryid": "Analytics",
+      "experiencerequired": "2-4 years",
+      "salary": "$80,000 - $100,000"
+    },
+    {
+      "providerid": "P003",
+      "jobtitle": "Marketing Manager",
+      "jobdescription": "Develop and execute marketing strategies to increase brand awareness and sales.",
+      "location": "Chicago, IL",
+      "companyname": "Creative Ads Ltd.",
+      "categoryid": "Marketing",
+      "experiencerequired": "5-7 years",
+      "salary": "$95,000 - $130,000"
+    },
+    {
+      "providerid": "P004",
+      "jobtitle": "Product Designer",
+      "jobdescription": "Create user-centered designs for mobile and web applications.",
+      "location": "Austin, TX",
+      "companyname": "Innovative Designs LLC",
+      "categoryid": "Design",
+      "experiencerequired": "3-5 years",
+      "salary": "$85,000 - $110,000"
+    },
+    {
+      "providerid": "P005",
+      "jobtitle": "Project Manager",
+      "jobdescription": "Lead and manage project teams to deliver projects on time and within budget.",
+      "location": "Seattle, WA",
+      "companyname": "Project Masters Corp.",
+      "categoryid": "Management",
+      "experiencerequired": "5-8 years",
+      "salary": "$100,000 - $135,000"
+    },
+    {
+      "providerid": "P006",
+      "jobtitle": "Sales Executive",
+      "jobdescription": "Develop and manage client relationships to drive sales and revenue growth.",
+      "location": "Boston, MA",
+      "companyname": "Sales Pros Inc.",
+      "categoryid": "Sales",
+      "experiencerequired": "2-4 years",
+      "salary": "$70,000 - $90,000"
+    },
+    {
+      "providerid": "P007",
+      "jobtitle": "UX Researcher",
+      "jobdescription": "Conduct research to understand user needs and improve user experience.",
+      "location": "Los Angeles, CA",
+      "companyname": "User Experience Group",
+      "categoryid": "Research",
+      "experiencerequired": "3-5 years",
+      "salary": "$80,000 - $105,000"
+    },
+    {
+      "providerid": "P008",
+      "jobtitle": "Financial Analyst",
+      "jobdescription": "Analyze financial data and create reports to support financial planning and analysis.",
+      "location": "Philadelphia, PA",
+      "companyname": "Finance Hub Ltd.",
+      "categoryid": "Finance",
+      "experiencerequired": "2-4 years",
+      "salary": "$75,000 - $95,000"
+    },
+    {
+      "providerid": "P009",
+      "jobtitle": "Customer Support Specialist",
+      "jobdescription": "Provide exceptional customer service and resolve customer issues efficiently.",
+      "location": "Denver, CO",
+      "companyname": "Support Central",
+      "categoryid": "Customer Service",
+      "experiencerequired": "1-3 years",
+      "salary": "$50,000 - $65,000"
+    },
+    {
+      "providerid": "P010",
+      "jobtitle": "Network Engineer",
+      "jobdescription": "Design, implement, and manage network infrastructure to ensure reliable connectivity.",
+      "location": "Atlanta, GA",
+      "companyname": "Network Solutions LLC",
+      "categoryid": "Engineering",
+      "experiencerequired": "4-6 years",
+      "salary": "$85,000 - $110,000"
+    }
+  ]
+  
